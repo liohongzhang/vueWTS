@@ -89,6 +89,6 @@
     "url-loader": "~0.6.2",
     "vue-hot-reload-api": "~2.2.4",
     "webpack": "~3.10.0",
-    "webpack-dev-server": "~2.11.1"
+    "webpack-dev-server": "~3.1.11"
   }
 }
